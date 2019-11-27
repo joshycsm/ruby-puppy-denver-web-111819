@@ -28,4 +28,6 @@ class Dog
   end
 end
 
+dog1 = Dog.new("jack")
+
 binding.pry
